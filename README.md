@@ -7,12 +7,12 @@ This repository contains material of the [BMS](https://www.math-berlin.de/) [Sum
 
 - [Create conda environment](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html):
 
-`conda env create -f environment.yml`
+  `conda env create -f environment.yml`
 
 - Activate conda environment:
 
-`conda activate bms_summer19`
+  `conda activate bms_summer19`
 
-- Run Jupyter Lab:
+- Run [Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/index.html#):
 
-`jupyter lab`
+  `jupyter lab`
