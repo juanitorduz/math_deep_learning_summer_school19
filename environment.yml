@@ -1,0 +1,14 @@
+name: bms_summer19
+dependencies:
+  - python=3.6
+  - pip
+  - jupyter
+  - jupyterlab
+  - nb_conda_kernels
+  - scipy
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - pip:
+    - tensorflow==2.0.0-beta
