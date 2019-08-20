@@ -16,3 +16,9 @@ This repository contains material of the [BMS](https://www.math-berlin.de/) [Sum
 - Run [Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/index.html#):
 
   `jupyter lab`
+  
+---
+  
+## Material & References
+  
+- [Eldad Haber](https://eldad-haber.webnode.com/) (University of British Columbia): Using PDEs for designing stable DNN architectures [repo](https://github.com/eldadHaber/CompAI)
