@@ -21,4 +21,4 @@ This repository contains material of the [BMS](https://www.math-berlin.de/) [Sum
   
 ## Material & References
   
-- [Eldad Haber](https://eldad-haber.webnode.com/) (University of British Columbia): Using PDEs for designing stable DNN architectures. [Slides Repository](https://github.com/eldadHaber/CompAI)
+- [Eldad Haber](https://eldad-haber.webnode.com/) (University of British Columbia): Using PDEs for designing stable DNN architectures ([Slides Repository](https://github.com/eldadHaber/CompAI).)
