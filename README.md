@@ -25,7 +25,7 @@ This repository contains material of the [BMS](https://www.math-berlin.de/) [Sum
 
 - [Mathematics of Deep Learning](https://arxiv.org/abs/1712.04741), [Rene Vidal](http://cis.jhu.edu/~rvidal/), Joan Bruna, Raja Giryes, Stefano Soatto.
   
-- [Eldad Haber](https://eldad-haber.webnode.com/) (University of British Columbia): Using PDEs for designing stable DNN architectures ([Slides Repository](https://github.com/eldadHaber/CompAI)).
+- [Eldad Haber](https://eldad-haber.webnode.com/) (University of British Columbia): Using PDEs for designing stable DNN architectures ([Slides + PyTorch Code Repository](https://github.com/eldadHaber/CompAI)).
 
 ---
 ## TensorFlow 2.0 Tutorial
