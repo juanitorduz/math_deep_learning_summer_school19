@@ -1,4 +1,6 @@
 name: bms_summer19
+channels:
+  - pytorch
 dependencies:
   - python=3.6
   - pip
@@ -10,5 +12,7 @@ dependencies:
   - pandas
   - matplotlib
   - seaborn
+  - scikit-learn
+  - pytorch
   - pip:
     - tensorflow==2.0.0-beta
