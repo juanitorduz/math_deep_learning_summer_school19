@@ -32,5 +32,5 @@ This repository contains material of the [BMS](https://www.math-berlin.de/) [Sum
 
 During the summer school we are having hands on practive on [TensorFlow](https://www.tensorflow.org). The material can be found on the GitHub repository: [https://github.com/clonker/bms-summerschool19-tf](https://github.com/clonker/bms-summerschool19-tf). 
 
-**REMARK**: Most of the experiments in this repository are based on the tutorial mentiones above. I extended some parts for my personal clarification.
+**REMARK**: Most of the experiments in this repository are based on the tutorial mentioned above. I extended some parts for my personal clarification
 
