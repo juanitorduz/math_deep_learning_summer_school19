@@ -3,6 +3,8 @@
 
 BERLIN, 19 - 30 August 2019, at Zuse Institute Berlin
 
+![header image](https://www.math-berlin.de/images/summerschool/Summer_School2019.png)
+
 This repository contains material of the [BMS](https://www.math-berlin.de/) [Summer School Mathematics of Deep Learning](https://www.math-berlin.de/).
 
 ---
