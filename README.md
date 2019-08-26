@@ -27,6 +27,10 @@ This repository contains material of the [BMS](https://www.math-berlin.de/) [Sum
   
 - [Eldad Haber](https://eldad-haber.webnode.com/) (University of British Columbia): Using PDEs for designing stable DNN architectures ([Slides + PyTorch Code Repository](https://github.com/eldadHaber/CompAI)).
 
+## Other References 
+
+- [Neural Networks: Tricks of the Trade, Reloaded](https://www.springer.com/gp/book/9783642352881), G. Montavon, G. B. Orr, K. Müller, (Eds.)
+
 ---
 ## TensorFlow 2.0 Tutorial
 
